@@ -3,3 +3,4 @@ http://download.pytorch.org/whl/cpu/torchvision-0.9.0%2Bcpu-cp39-cp39-linux_x86_
 fastai
 voila
 ipywidgets
+fastbook
